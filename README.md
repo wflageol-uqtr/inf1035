@@ -18,7 +18,7 @@ Les notes de cours seront mises à disposition au fur et à mesure sur ce Github
 
 ### Évaluation & Planning de rendus
 
-* **Les dates de remise s'entendent sur le fuseau horaire de Montréal, à 23:00 le jour de la date de remise. Tout rendu hors délais recevra automatiquement la note de zéro (0).**
+* **Les dates de remise s'entendent sur l'heure de l'est, à 23:00 le jour de la date de remise. Tout rendu hors délais recevra automatiquement la note de zéro (0).**
 
 * **Les règles concernant le plagiat seront appliquées sans aucune tolérance.**
 
