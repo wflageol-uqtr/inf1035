@@ -41,7 +41,7 @@ Les notes de cours sont basées en partie sur des présentations créées par S�
 
 ### Comment me contacter
 
-J'ai créé un serveur Discord pour le cours où vous pourrez me poser des questions ou discuter entre vous sur les sujets du cours. Vous pouvez accéder au serveur avec ce lien: [Lien à ajouter]. Vous pouvez utiliser la salle _Questions_ pour me poser des questions concernant les travaux ou demander des clarifications concernant la matière.
+J'ai créé un serveur Discord pour le cours où vous pourrez me poser des questions ou discuter entre vous sur les sujets du cours. Vous pouvez accéder au serveur avec ce lien: https://discord.gg/6uCS44nb. Vous pouvez utiliser la salle _Questions_ pour me poser des questions concernant les travaux ou demander des clarifications concernant la matière.
 
 Sinon, si vous ne vous sentez pas à l'aise d'utiliser Discord ou vous préférez me contacter directement, vous pouvez le faire en utilisant une des adresses courriel suivantes :
 
@@ -62,11 +62,11 @@ Attention, ce cours n'est pas un cours facile. Il demande un travail continu et 
 
 ### Projet de session
 
-En plus des travaux à remettre tout le long de la session, ce cours comporte un projet de session qui se déroulera en deux phases. En première phase, vous aurez à développer une implémentation d'un jeu de société non-trivial (qui sera dévoilé à la semaine 3). La deuxième phase consistera à appliquer une modification majeure à votre logiciel qui mettra à l'épreuve le design que vous aurez choisi.
+En plus des travaux à remettre tout le long de la session, ce cours comporte un projet de session qui se déroulera en deux phases. En première phase, vous aurez à développer une implémentation d'un jeu non-trivial (qui sera dévoilé à la semaine 3). La deuxième phase consistera à appliquer une modification majeure à votre jeu qui mettra à l'épreuve le design que vous aurez choisi.
 
-Le jeu choisi ne sera pas nécessairement facile à transformer en programme et il n'y aura pas de clarifications aux règles autres que celles que je fournirai dans l'énoncé. Vous devrez émettre vos propres hypothèses et procéder de la façon dont vous jugerez la meilleure. Ni moi ni le responsable des laboratoires ne répondront aux questions concernant les spécifications.
+Le jeu choisi ne sera pas nécessairement facile à transformer en programme et il n'y aura pas de clarifications aux règles autres que celles que je fournirai dans l'énoncé. Vous devrez émettre vos propres hypothèses et procéder de la façon dont vous jugerez la meilleure. Je ne répondrai pas aux questions concernant les spécifications.
 
-Le travail sera effectué en équipe de 4 (dépendemment du nombre d'étudiants, il pourra y avoir un nombre d'équipes de 3). Le projet de session est un travail d'envergure et qui va nécessiter de la discussion et de la collaboration. Il n'y aura pas d'exceptions.
+Le travail sera effectué en équipe de 4 (dépendemment du nombre d'étudiants, il pourra y avoir un nombre d'équipes de 3). Le projet de session est un travail d'envergure et qui va nécessiter de la discussion et de la collaboration. Il n'y aura pas de personne seule, sans exception.
 
 Pour faciliter la création des équipes, j'ai créé une salle _Formation d'équipe_ sur le Discord du cours où vous pourrez discuter entre vous et former vos équipes au besoin.
 
@@ -560,7 +560,7 @@ Voici qui conclu l'introduction au cours. Les concepts abordés cette semaine se
 
 La semaine prochaine, nous aborderons les principes d'encapsulation, types et interfaces.
 
-Le premier travail pratique est présentement disponible sur le [Github du cours](). Je vous conseille de ne pas tarder avant de commencer les travaux pour éviter de vous retrouver avec trop de travail à faire en même temps à la mi-session!
+Le premier travail pratique est présentement disponible sur le [Github du cours](https://github.com/wflageol-uqtr/inf1035/blob/master/travail1.md). Je vous conseille de ne pas tarder avant de commencer les travaux pour éviter de vous retrouver avec trop de travail à faire en même temps à la mi-session!
 
 
 Bonne chance et à la semaine prochaine!
