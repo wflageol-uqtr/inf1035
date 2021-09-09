@@ -82,11 +82,11 @@ Comme il s'agit du premier travail et que les notions de conception objet n'ont 
 
 Un 20% de la note sera attribué pour la clarté et qualité du code. Cela signifie donner des noms significatifs à vos noms de méthodes et classes, avoir des méthodes simples et compréhensibles (commentaires peuvent parfois aider) et simplement en général être facile à lire.
 
-| Critère                                        | Poids |
-| ---                                            | ---   |
-| Les tests unitaires passent (Partie 1)         | 70%   |
-| La structure en place est respectée (Partie 1) | 20%   |
-| Clarté et qualité du code                      | 10%   |
+| Critère                             | Poids |
+| ---                                 | ---   |
+| Les tests unitaires passent         | 70%   |
+| La structure en place est respectée | 20%   |
+| Clarté et qualité du code           | 10%   |
 
 ## Remise des travaux
 
