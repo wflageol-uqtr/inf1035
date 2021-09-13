@@ -7,7 +7,7 @@
   * Cours : Jeudi, 15h30 - 18h30, 4020-R
   * Laboratoires : Jeudi, 17h00 - 18h30, 3043-R et 3045-R
 * Communication :
-  * [Discord](https://discord.gg/6uCS44nb)
+  * [Discord](https://discord.gg/npFDAwCXcw)
   * Courriel: william.flageol@uqtr.ca, wflageol@gmail.com
 
 ### Objectif du cours
