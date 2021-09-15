@@ -63,7 +63,7 @@ Par exemple, la main _8S JK 6S 5S 4S_ verra le joker prendre la valeur _7S_, car
 
 #### Récupération du code
 
-Vous pouvez obtenir le code source à mettre à jour sur GitHub Classroom en utilisant le lien suivant : [https://classroom.github.com/classrooms/88508300-inf1035/assignments/travail-2---poker](https://classroom.github.com/classrooms/88508300-inf1035/assignments/travail-2---poker)
+Vous pouvez obtenir le code source à mettre à jour sur GitHub Classroom en utilisant le lien suivant : [https://classroom.github.com/a/gzLRdjgs](https://classroom.github.com/a/gzLRdjgs)
 
 ## Critères de correction
 
