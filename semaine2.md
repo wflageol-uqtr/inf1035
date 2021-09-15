@@ -198,8 +198,8 @@ Voici ce que ça donne en C# :
 		
 		public Card(Value value, Color color) 
 		{
-			this.value = value;
-			this.color = color;
+            Value = value;
+			Color = color;
 		}
 	}
     
@@ -269,7 +269,7 @@ Donc on fait quoi?
 #### Retourner une copie de la donnée
 
 > "_Pour tout problème complexe, il existe une solution simple, claire, directe et **fausse**._"  
-> --_Albert Einstein_
+> --_H.L. Mencken_
 
 On peut retourner une copie des données pour protéger notre représentation interne contre les changements externes. Si la copie est modifiée, notre objet original ne sera pas affecté. La copie peut être **superficielle** ou **profonde** et elle peut être en lecture seule. Le choix est complexe et dépend du contexte d'utilisation.
 
