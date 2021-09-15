@@ -68,7 +68,7 @@ Les notes de cours seront mises à disposition au fur et à mesure sur ce Github
 <td>10-21</td>
 <td>
 
-Travail 2
+[Travail 2](https://github.com/wflageol-uqtr/inf1035/blob/master/travail2.md)
 
 </td>
 <td>Gérer du code légataire.</td>
@@ -157,7 +157,7 @@ Les travaux et projets sont placés de façon à balancer la charge de travail a
 </td>
 <td>
 
-[Travail Pratique 1](https://github.com/wflageol-uqtr/inf1035/blob/master/travail1.md) - [Code Kata : Harry Potter](https://classroom.github.com/classrooms/88508300-inf1035/assignments/travail-1---harry-potter)
+[Travail Pratique 1](https://github.com/wflageol-uqtr/inf1035/blob/master/travail1.md) - [Code Kata : Harry Potter](https://classroom.github.com/a/fMsfizsL)
 
 </td>
 </tr>
@@ -167,12 +167,12 @@ Les travaux et projets sont placés de façon à balancer la charge de travail a
 <td>2021-09-16</td>
 <td>
 
-Encapsulation, types et interfaces
+[Encapsulation, types et interfaces](https://github.com/wflageol-uqtr/inf1035/blob/master/semaine2.md)
 
 </td>
 <td>
 
-Travail Pratique 2 - Poker
+[Travail Pratique 2 - Poker](https://github.com/wflageol-uqtr/inf1035/blob/master/travail2.md) - [Poker](https://classroom.github.com/a/gzLRdjgs)
 
 </td>
 </tr>
