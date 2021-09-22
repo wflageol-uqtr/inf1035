@@ -1,4 +1,4 @@
-# INF5153 - Semaine 2
+# INF1035 - Semaine 2
 
 ## Bibliographie de ce cours
 

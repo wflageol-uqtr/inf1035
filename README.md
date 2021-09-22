@@ -172,7 +172,7 @@ Les travaux et projets sont placés de façon à balancer la charge de travail a
 </td>
 <td>
 
-[Travail Pratique 2 - Poker](https://github.com/wflageol-uqtr/inf1035/blob/master/travail2.md) - [Poker](https://classroom.github.com/a/gzLRdjgs)
+[Travail Pratique 2](https://github.com/wflageol-uqtr/inf1035/blob/master/travail2.md) - [Poker](https://classroom.github.com/a/gzLRdjgs)
 
 </td>
 </tr>
@@ -182,7 +182,7 @@ Les travaux et projets sont placés de façon à balancer la charge de travail a
 <td>2021-09-23</td>
 <td>
 
-Composition _versus_ héritage, tests
+[Composition _versus_ héritage, tests](https://github.com/wflageol-uqtr/inf1035/blob/master/semaine3.md)
 
 </td>
 <td></td>
