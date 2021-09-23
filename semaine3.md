@@ -6,6 +6,8 @@
 
 La matière de cette semaine concerne les mécanismes orienté-objet de composition et d'héritage. L'objectif est de décrire en détail le fonctionnement de ces mécanismes et de pouvoir les comparer et les utiliser dans les bons contextes.
 
+Les notes de cours sont basées en partie sur des présentations créées par Sébastien Mosser, professeur à l'UQAM.
+
 ## Section 1 - Courte révision
 
 ### Quelques principes SOLID et la Loi de Demeter

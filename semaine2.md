@@ -26,6 +26,8 @@ Faites attention à ne pas recopier le code du livre ou des notes de cours dans 
 * Il s'agirait de **plagiat**
 * Les problématiques rencontrées ne sont pas nécessairement les mêmes
 
+Les notes de cours sont basées en partie sur des présentations créées par Sébastien Mosser, professeur à l'UQAM.
+
 ## Section 1 - Étude de cas : Schotten Totten
 
 ![](resources/semaine2_cartes.png)
