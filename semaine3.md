@@ -1,4 +1,4 @@
-# INF1035 - Semaine 4
+# INF1035 - Semaine 3
 
 ## Bibliographie de ce cours
 
