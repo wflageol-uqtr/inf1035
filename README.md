@@ -193,7 +193,7 @@ Les travaux et projets sont placés de façon à balancer la charge de travail a
 <td>2021-09-30</td>
 <td>
 
-Principes de conception (GRASP, SOLID)
+[Principes de conception (GRASP, SOLID)](https://github.com/wflageol-uqtr/inf1035/blob/master/semaine4.md)
 
 </td>
 <td></td>
@@ -204,7 +204,7 @@ Principes de conception (GRASP, SOLID)
 <td>2021-10-07</td>
 <td>
 
-Études de cas _Jeu de Dés_
+[Études de cas _Jeu de Dés_](https://github.com/wflageol-uqtr/inf1035/blob/master/etude1.md)
 
 </td>
 <td>
