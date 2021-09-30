@@ -120,7 +120,7 @@ Il n'y aura pas d'examen durant cette session. À la place, les travaux et proje
 
 Le projet de session est à faire en équipe (4 ou 5 personnes). L'évaluation se fera par le biais de présentations de chacune des équipes. Les présentations sont à huis clos. La correction tiendra compte du nombre de membres des équipes. **Un dépôt du code complet du projet devra aussi être fait sur Github**.
 
-Veuillez entrer les membres de votre équipe dans ce [classeur](https://docs.google.com/spreadsheets/d/1bK7ITmnuZhqL8LnlGgS65UYvH9MotiTKkbFpebmqino/edit?usp=sharing) avant le 14 octobre.
+Veuillez entrer les membres de votre équipe dans ce [classeur](https://docs.google.com/spreadsheets/d/1bK7ITmnuZhqL8LnlGgS65UYvH9MotiTKkbFpebmqino/edit?usp=sharing) avant le 7 octobre (date de début du travail de session).
 
 Les travaux et projets sont placés de façon à balancer la charge de travail au cours de la session.
 
