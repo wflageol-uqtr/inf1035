@@ -11,7 +11,7 @@ Suites : H D S C
 
 Exemple de main : _AS 4C TD QC 4C_
 
-L'algorithme retourne ensuite le type de main en tant que valeur de l'énumération Java suivante :
+L'algorithme retourne ensuite le type de main en tant que valeur de l'énumération suivante :
 
     public enum Hand {
         HighCard,
