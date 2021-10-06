@@ -244,7 +244,7 @@ Remise des TP 1 et 2
 
 <tr>
 <td>8</td>
-<td>2021-10-21</td>
+<td>2021-10-28</td>
 <td>
 
 Semaine de travaux et d'études
