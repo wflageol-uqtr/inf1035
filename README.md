@@ -92,7 +92,7 @@ Travail 3
 <td>11-04</td>
 <td>
 
-Projet de session - Phase 1
+[Projet de session - Phase 1](https://github.com/wflageol-uqtr/inf1035/blob/master/projet.md)
 
 </td>
 <td>Implémenter un logiciel de jeu non-trivial</td>
@@ -211,7 +211,7 @@ Les travaux et projets sont placés de façon à balancer la charge de travail a
 </td>
 <td>
 
-Projet de session - Phase 1
+[Projet de session - Phase 1](https://github.com/wflageol-uqtr/inf1035/blob/master/projet.md)
 
 </td>
 </tr>
