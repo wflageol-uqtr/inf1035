@@ -113,12 +113,12 @@ Vous pouvez obtenir votre dépôt Git au lien suivant : [https://classroom.githu
 
 Votre évaluation repose en partie sur la présentation de votre logiciel et sur la qualité de votre rapport. Voici les critères d'évalution.
 
-| Critère                                                       | Poids |
-| ---                                                           | ---   |
-| Présentation : Application fonctionnelle                      | 30%   |
-| Présentation : Convivialité et qualité visuelle               | 10%   |
-| Rapport : Démonstration des principes SOLID (5% par principe) | 25%   |
-| Rapport : Démonstration de 3 patrons GRASP (5% par patron)    | 15%   |
+| Critère                                         | Poids |
+| ---                                             | ---   |
+| Présentation : Application fonctionnelle        | 40%   |
+| Présentation : Convivialité et qualité visuelle | 10%   |
+| Rapport : Démonstration des principes SOLID     | 30%   |
+| Rapport : Démonstration de 3 patrons GRASP      | 20%   |
 
 ## Remise des travaux
 
