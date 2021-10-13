@@ -221,7 +221,7 @@ Les travaux et projets sont placés de façon à balancer la charge de travail a
 <td>2021-10-14</td>
 <td>
 
-Intro aux patrons de conception (stratégie)
+[Intro aux patrons de conception (stratégie)](https://github.com/wflageol-uqtr/inf1035/blob/master/semaine6.md)
 
 </td>
 <td></td>
