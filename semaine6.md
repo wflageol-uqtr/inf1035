@@ -1,4 +1,4 @@
-# INF5153 - Semaine 8
+# INF1035 - Semaine 6
 
 L'objectif de cette semaine est d'introduire une nouvelle gamme des patrons de conception.
 
