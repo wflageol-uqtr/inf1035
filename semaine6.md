@@ -164,11 +164,17 @@ L'idée est qu'au lieu qu'un ``Canard`` soit un ``AnimalVolant`` et un truc ``Ca
 
     public abstract class Canard {
         private ComportementDeVol vol;
+        
+        public Canard(ComportementDeVol vol) {
+            this.vol = vol;
+        }
+        
         public void voler() { vol.voler(); }
     }
     
     public class Colvert extends Canard {
-        public Colvert() { this.vol = new UtiliseSesAiles(); }
+    
+        public Colvert() { super(new UtiliseSesAiles()); }
     }
 
 Dans ce nouveau _design_, le constructeur d'une classe de type ``Canard`` spécifie les _comportements_ qui seront utilisés par la classe. Ici, la classe ``Colvert`` spécifie que ce type de ``Canard`` ``UtiliseSesAiles`` pour voler. 
