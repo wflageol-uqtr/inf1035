@@ -5,8 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DiceGame"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Canvas Name="GameArea">
-            
-    </Canvas>
+        Title="MainWindow" 
+        SizeToContent="WidthAndHeight">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="300" />
+        </Grid.ColumnDefinitions>
+        <Canvas Name="GameArea" />
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="2">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Joueur " FontSize="36" />
+                <Label Content="{Binding CurrentPlayer.PlayerNumber}" FontSize="36" />
+            </StackPanel>
+            <Viewbox Name="Controls" />
+        </StackPanel>
+    </Grid>
 </Window>

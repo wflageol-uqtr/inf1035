@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DiceGame.Game
 {
-    class FinalTile : ITile 
+    class FinalTile : ITile
     {
+        public void Activate(IGameController controller)
+        {
+            //controller.EndGame();
+        }
     }
 }

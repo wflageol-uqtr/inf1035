@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DiceGame.Game
 {
-    class BonusTile : ITile 
+    public class BonusTile : ITile
     {
+        public void Activate(IGameController controller)
+        {
+            controller.ActivateBonusTile();
+        }
+
     }
 }

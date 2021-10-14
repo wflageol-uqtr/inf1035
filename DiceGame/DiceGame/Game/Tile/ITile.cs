@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace DiceGame.Game
 {
-    interface ITile
+    public interface ITile
     {
+
+        void Activate(IGameController controller);
     }
 }

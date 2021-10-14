@@ -7,24 +7,42 @@ using System.Threading.Tasks;
 
 namespace DiceGame
 {
-    public class GameController
+    public class GameController : IGameController
     {
         private MainWindow view;
         private Board board;
+
+        internal void EndGame()
+        {
+            throw new NotImplementedException();
+        }
+
         private Player[] players;
         private int currentPlayerIndex;
 
+        public Board Board => board;
+        public IEnumerable<Player> Players => players;
+        public Player CurrentPlayer => players[currentPlayerIndex];
+
         public GameController(MainWindow view, int nbPlayers)
         {
-            board = new Board(nbPlayers);
-            players = board.Players.ToArray();
+            board = new Board();
             this.view = view;
-            currentPlayerIndex = 0;
+
+            CreatePlayers(nbPlayers);
+            board.PlacePlayers(players);
+
+            currentPlayerIndex = 1;
         }
 
-        public Board Board => board;
+        private void CreatePlayers(int nb)
+        {
+            var random = new MyRandom();
 
-        private Player CurrentPlayer => players[currentPlayerIndex];
+            players = new Player[nb];
+            for (int i = 0; i < nb; i++)
+                players[i] = new Player(random, i + 1);
+        }
 
         public void Roll()
         {
@@ -32,15 +50,19 @@ namespace DiceGame
 
             var directions = new List<Direction>();
             var totalPower = 0;
-            foreach(var face in rolledFaces)
+            foreach (var face in rolledFaces)
             {
                 if (face.Direction.HasValue)
                     directions.Add(face.Direction.Value);
                 totalPower += face.Power;
             }
 
-            view.ShowRollResults(directions, totalPower);
+            view.ShowDirectionControls(directions);
+        }
 
+        public void ActivateBonusTile()
+        {
+            view.ShowBonusControls();
         }
     }
 }
