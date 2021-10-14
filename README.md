@@ -114,7 +114,7 @@ Projet de session - Phase 2
 
 </table>
 
-Pour les travaux et le projet de session, le rendu se fera à travers la plateforme [Github Classroom](https://classroom.github.com/classrooms/88508300-inf1035). Les dépôts de code seront clônés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué. La couverture _fonctionnelle_ de vos travaux est automatiquement vérifiée par la bonne exécution de scénarios de tests unitaires.
+Pour les travaux et le projet de session, le rendu se fera à travers la plateforme Github Classroom (les liens pour joindre la plateforme sont dans les pages de description des différents travaux). Les dépôts de code seront clônés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué. La couverture _fonctionnelle_ de vos travaux est automatiquement vérifiée par la bonne exécution de scénarios de tests unitaires.
 
 Il n'y aura pas d'examen durant cette session. À la place, les travaux et projet de session couvriront l'essentiel de la matière en vous demandant d'appliquer les concepts vus dans les notes de cours et en classe. Les pondérations réflètent la difficulté et niveau d'effort relatif de chaque travail.
 
