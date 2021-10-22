@@ -1,4 +1,4 @@
-# INF5153 - Génie logiciel : Conception
+# INF1035 - Concepts Avancés en Objet : Conception
 
 ## Informations Générales
 
