@@ -1,4 +1,4 @@
-# INF1035 - Concepts Avancés en Objet : Conception
+# INF1035 - Concepts Avancés en Objet
 
 ## Informations Générales
 
