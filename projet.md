@@ -128,6 +128,101 @@ Votre code et rapport devront être déposés sur votre Git avant le 4 novembre 
 Bonne chance!
 
 
+# Phase 2
+
+La phase deux du projet porte sur l'évolution et la maintenance du code que vous avez développé pour la phase 1.
+
+## Spécifications générales
+
+Voici les grandes lignes de ce que vous devrez accomplir pour la phase 2 :
+
+* Ajouter une fonctionnalité _undo-redo_ à votre logiciel.
+* Permettre d'ajouter une couleur différente à chaque case parmi 9 couleurs fournies.
+* Permettre d'effectuer des changements sur plusieurs cases à la fois.
+* La fonctionnalité _undo-redo_ devra être testée unitairement.
+* Votre code devra faire usage de trois (3) patrons de conceptions GoF différents, tels que vu dans les notes de cours et en classe.
+* Effectuer les corrections sur les éléments manquants dans votre implémentation de la phase 1 (s'il y a lieu).
+
+De plus, vous devrez fournir un rapport contenant les explications, avec exemples, de vos implémentations de patrons de conception.
+
+Finalement, vous devrez me présenter votre programme fonctionnel à la date remise, comme à la phase 1.
+
+## Spécification détaillées
+
+### _Undo/Redo_
+
+Vous devez offrir à l'utilisateur de votre programme la possibilité de revenir en arrière sur chacune des modifications qu'il effectue sur la grille. En d'autres termes, si l'utilisateur remplace un chiffre dans une case, il doit pouvoir faire un _undo_ pour revenir en arrière et remettre l'ancien chiffre. Ceci doit fonctionner pour tous les types de modifications possibles : chiffres finaux, notes en coin ou centre, couleurs.
+
+De plus, vous devez aussi fournir une fonctionnalité _redo_ qui permet de défaire un ou plusieurs _undo_ fait de suite. Donc, si l'utilisateur utilise _undo_ 3 fois de suite, il peut ensuite faire _redo_ jusqu'à 3 fois pour remettre en place ses modifications. À noter que s'il effectue tout autre changement suite à un ou plusieurs _undo_, la fonctionnalité _redo_ devient inaccessible.
+
+### Ajout de couleurs
+
+En plus de contenir des chiffres, vos cases devront pouvoir contenir une couleur. L'utilisateur doit pouvoir colorer les cases individuellement avec une de neuf couleurs différentes de votre choix.
+
+![](resources/projet_couleurs.png)
+
+### Changements sur plusieurs cellules
+
+Votre logiciel doit permettre à l'utilisateur de sélectionner plusieurs cellules à la fois, pour ensuite permettre d'effectuer un changement sur toutes ces cellules en même temps. Toutes les types de notations sont valides pour cette fonctionnalités (chiffres finaux, notations en coin ou centre, couleurs).
+
+Portez attention à l'interaction entre cette fonctionnalité et le _undo_. Si l'utilisateur fait une modification sur plusieurs cellules en même temps et ensuite fait _undo_, toutes les cellules modifiées doivent être remise à leur état précédent.
+
+La forme de la sélection ne doit pas être limitée :
+
+![](resources/projet_selection1.png)
+
+Et peut contenir des cellules disjointes :
+
+![](resources/projet_selection2.png)
+
+À vous de déterminer l'interface utilisateur à fournir pour cette fonctionnalité!
+
+### Tests unitaires
+
+Vous devrez mettre à jour votre batterie de tests unitaires pour ajouter les tests pour la fonctionnalité _undo-redo_.
+
+### Rapport
+
+Vous devez fournir un rapport qui contient les informations suivantes :
+
+* Trois (3) exemples dans votre code qui démontrent l'application de chacun un patron de conception GoF différent.
+* Chaque exemple doit être accompagné d'explications et justifications.
+
+De plus, vous devez remplir le tableau suivant et l'ajouter à votre rapport (vous pouvez copier-coller le tableau depuis le code Markdown de ce même document pour vous simplifier la vie).
+
+| Tâche                              | Responsable |
+| ---                                | ---         |
+| Interface graphique (phase 1)      |             |
+| Notation spéciales (phase 1)       |             |
+| Système de vérification (phase 1)  |             |
+| Sauvegarde et chargement (phase 1) |             |
+| Tests unitaires (phase 1)          |             |
+| Rapport (phase 1)                  |             |
+| Undo/Redo (phase 2)                |             |
+| Couleurs (phase 2)                 |             |
+| Sélection multiple (phase 2)       |             |
+| Tests unitaires (phase 2)          |             |
+| Rapport (phase 2)                  |             |
+
+Pour chaque ligne de ce rapport, je vous demande d'inscrire le ou les membres de votre équipe qui ont travaillé sur la tâche mentionnée. Vous pouvez écrire plusieurs noms par tâche. Je m'attends à ce que toutes les tâches aient au moins un nom et que tous les membres de votre équipe apparaîssent au moins une fois dans le tableau.
+
+Vous pouvez inscrire ces informations suite au rapport de la phase 1 (dans le même fichier Markdown README.md).
+
+## Présentation
+
+Le 9 décembre, vous aurez à me présenter votre application fonctionnelle. Il ne s'agit que de me montrer le bon fonctionnement de chacune des fonctionnalités présentées ci-haut, ainsi que des fonctionnalités manquantes à la première présentation (s'il y a lieu). Vous aurez un maximum de 10 minutes pour présenter votre application.
+
+Je vous recommende d'amener un ordinateur portable pour présenter, mais si c'est impossible, vous pourrez utiliser l'ordinateur du local 4020.
+
+## Grille de correction
+
+| Critère                          | Poids |
+| ---                              | ---   |
+| Nouvelles fonctionalités         | 30%   |
+| Interface utilisateur conviviale | 15%   |
+| Patrons de conception GoF        | 45%   |
+| Complétion des tests unitaires   | 10%   |
+
 # Étude de cas
 
 Cette section concerne les équipes participantes à l'étude de cas. Les règles et modalités concernant l'étude sont décrites ci-bas. Si vous ne participez pas, vous pouvez ignorer cette section sans problème.
