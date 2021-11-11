@@ -104,7 +104,7 @@ Travail 3
 <td>12-09</td>
 <td>
 
-Projet de session - Phase 2
+[Projet de session - Phase 2](https://github.com/wflageol-uqtr/inf1035/blob/master/projet.md#phase-2)
 
 </td>
 <td>Appliquer un changement majeur à un logiciel</td>
@@ -273,7 +273,7 @@ Présentation de la phase 1
 <td>2021-11-11</td>
 <td>
 
-Patrons de conception (singleton, observateur, décorateur, façade, fabrique et adaptateur)
+[Patrons de conception (singleton, observateur, décorateur, façade, fabrique et adaptateur)](https://github.com/wflageol-uqtr/inf1035/blob/master/semaine10.md)
 
 </td>
 <td>
