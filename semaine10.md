@@ -1,4 +1,4 @@
-# INF5153 - Semaine 10
+# INF1035 - Semaine 10
 
 ## Patrons de conception
 

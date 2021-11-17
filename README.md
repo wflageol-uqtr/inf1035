@@ -80,7 +80,7 @@ Les notes de cours seront mises à disposition au fur et à mesure sur ce Github
 <td>12-16</td>
 <td>
 
-Travail 3
+[Travail 3](https://github.com/wflageol-uqtr/inf1035/blob/master/travail3.md)
 
 </td>
 <td>Utiliser les patrons de conception et expérimenter avec des concepts avancés</td>
@@ -288,12 +288,12 @@ Projet de session - Phase 2
 <td>2021-11-18</td>
 <td>
 
-Patrons de conception (state, builder, prototype, composite, visiteur, template method et proxy)
+[Patrons de conception (state, builder, prototype, composite, visiteur, template method et proxy)](https://github.com/wflageol-uqtr/inf1035/blob/master/semaine11.md)
 
 </td>
 <td>
 
-Travail Pratique 3
+[Travail Pratique 3](https://github.com/wflageol-uqtr/inf1035/blob/master/travail3.md)
 
 </td>
 </tr>
